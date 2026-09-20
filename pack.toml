@@ -1,0 +1,12 @@
+name = "Gemoded Ist Geil"
+author = "Laputa Werkstatt"
+version = "1.0.0"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.244"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "00fd404bbb5cce3088adb5b55433950c1b4434e8fca019c8fa92c41e4d22b2ae"
