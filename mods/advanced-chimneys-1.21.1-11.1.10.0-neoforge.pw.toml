@@ -1,0 +1,13 @@
+name = "AdChimneys-1.21.1-11.1.10.0-NeoForge-build.1121"
+filename = "AdChimneys-1.21.1-11.1.10.0-NeoForge-build.1121.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r2rWUhnP/versions/8yQlbwVK/AdChimneys-1.21.1-11.1.10.0-NeoForge-build.1121.jar"
+hash-format = "sha1"
+hash = "62fe4ea02272d5b727e5bd667542e147edccd7eb"
+
+[update]
+[update.modrinth]
+mod-id = "r2rWUhnP"
+version = "8yQlbwVK"

@@ -16,6 +16,11 @@ hash = "fe7190878b4a3a98c6c3c3af1c507ba727aa36b9db2dfcfe25d225b72e3ad47d"
 metafile = true
 
 [[files]]
+file = "mods/advanced-chimneys-1.21.1-11.1.10.0-neoforge.pw.toml"
+hash = "3adc60dbdf46d65cd35f516967f5c9d05c2ad4a8110ed6f59efbd44f43d5c3f9"
+metafile = true
+
+[[files]]
 file = "mods/advancementplaques-1.21.1-fabric-1.6.8.pw.toml"
 hash = "9c003ef74b5493554ff8375dc40ca00ba116633ac28c95b9ce1604f90a91d147"
 metafile = true
@@ -497,11 +502,6 @@ metafile = true
 [[files]]
 file = "mods/cyclopscore-1.21.1-neoforge-1.29.3.pw.toml"
 hash = "db176a07b04007efc9537e2aa5878100ff4764883e6a9eca31450501bd72229e"
-metafile = true
-
-[[files]]
-file = "mods/debugify-1.21.1_1.0.pw.toml"
-hash = "4177e779ba2be562953c803708f5ede14d25da9c5e7eed73004a6ad9a0a07788"
 metafile = true
 
 [[files]]
