@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 
-
+[[files]]
 file = "mods/1.21.1-2.0.0-beta.pw.toml"
 hash = "59d21d56c53f763c6ce29c90d797462c1c2db1828276ca98cfb212c94d3b550e"
 metafile = true
 
-
+[[files]]
 file = "mods/Botania-Mod-NeoForge-1.21.1.jar"
 hash = "b20db3a47c727489f45f08dd5e934e5a10474dd14822bf29d1b4b75c0b99264a"
 
